@@ -63,8 +63,9 @@ h2{
 }
 
 h3 {
-  font-size: 3rem; line-height: 1.35;
+  font-size: 3.6rem; line-height: 1.35;
   padding-bottom: 120px;
+  font-weight: 600;
 }
 
 .hilight {
